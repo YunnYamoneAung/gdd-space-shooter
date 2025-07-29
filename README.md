@@ -7,7 +7,7 @@ This project is based from this
 [Space Invader](https://github.com/janbodnar/Java-Space-Invaders) repository.
 
 ## Team Members
-Thu Kha Nyan - 6520076
+Thukha Nyan - 6520076
 May Thu Khin - 6611281
 Yunn Yamone Aung - 6511158
 
