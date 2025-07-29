@@ -1,0 +1,10 @@
+frame,type,x,y
+0,Alien2,50,30
+0,Alien2,100,30
+0,Alien2,150,30
+180,Alien2,200,30
+180,Alien2,250,30
+360,Alien2,300,30
+360,PowerUp-SpeedUp,100,80
+540,Alien2,60,30
+540,Alien2,120,30

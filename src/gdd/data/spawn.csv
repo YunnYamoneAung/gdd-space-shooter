@@ -1,0 +1,5 @@
+frame,x,y,type
+60,100,100,alien1
+120,200,150,alien2
+180,250,100,alien1
+240,180,200,alien2
