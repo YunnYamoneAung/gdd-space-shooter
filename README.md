@@ -2,10 +2,6 @@
 
 This is a starting codebase for GDD Project.
 
-## References
-This project is based from this 
-[Space Invader](https://github.com/janbodnar/Java-Space-Invaders) repository.
-
 ## Team Members
 Thukha Nyan - 6520076
 May Thu Khin - 6611281
